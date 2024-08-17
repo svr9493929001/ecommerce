@@ -19,7 +19,7 @@ const settings = ['Profile', 'Account', 'Dashboard', 'Logout'];
 function ResponsiveAppBar() {
   const [anchorElNav, setAnchorElNav] = React.useState(null);
   const [anchorElUser, setAnchorElUser] = React.useState(null);
-
+  setAnchorElUser(false)
   const handleOpenNavMenu = (event) => {
     setAnchorElNav(event.currentTarget);
   };
