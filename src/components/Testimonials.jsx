@@ -29,7 +29,7 @@ export default function Testimonials() {
 
   return (
     <div style={{margin:"50px"}}>
-      <h1 style={{ textAlign: "center", margin: "50px" }}>█▓▒▒░░░Customer's reviews░░░▒▒▓█</h1>
+      <h1 style={{ textAlign: "center", margin: "50px" }}>🅲🆄🆂🆃🅾🅼🅴🆁🆂 🆁🅴🆅🅸🅴🆆'🆂</h1>
       
       <Grid container spacing={3}>
         {testimonials.map((testimonial, index) => (
