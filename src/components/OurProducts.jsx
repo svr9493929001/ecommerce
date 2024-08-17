@@ -1,9 +1,6 @@
 import React from 'react';
-import { Carousel } from 'react-bootstrap';
 import { Box } from '@mui/material';
-import { styled } from '@mui/material/styles';
-import Paper from '@mui/material/Paper';
-import { Container, Grid } from '@mui/material';
+import { Grid } from '@mui/material';
 import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';

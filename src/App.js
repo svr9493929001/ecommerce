@@ -4,7 +4,6 @@ import Home from './components/Home'
 import FeaturedProducts from './components/FeaturedProducts';
 import SpecialOffers from './components/SpecialOffers';
 import Testimonials from './components/Testimonials';
-import { Container, Grid } from '@mui/material';
 import OurProducts from './components/OurProducts';
 function App() {
 
