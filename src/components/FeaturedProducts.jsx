@@ -14,7 +14,7 @@ const FeaturedProducts = () => {
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
-        <img className="d-block w-100" src="https://images.pexels.com/photos/8015774/pexels-photo-8015774.jpeg?auto=compress&cs=tinysrgb&w=600" style={{maxHeight: "500px"}}/>
+        <img className="d-block w-100" src="https://images.pexels.com/photos/8015774/pexels-photo-8015774.jpeg?auto=compress&cs=tinysrgb&w=600" alt='second img' style={{maxHeight: "500px"}}/>
         <Carousel.Caption>
           <h1>bath products </h1>
           <h6>Starting at <strong style={{textDecoration: 'line-through', fontSize: "Bold"}}>$599</strong> $499</h6>

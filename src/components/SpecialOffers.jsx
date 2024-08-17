@@ -14,7 +14,7 @@ export default function SpecialOffers() {
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
-        <img className="d-block w-100" src="https://images.pexels.com/photos/1377034/pexels-photo-1377034.jpeg?auto=compress&cs=tinysrgb&w=600" style={{maxHeight: "500px"}}/>
+        <img className="d-block w-100" src="https://images.pexels.com/photos/1377034/pexels-photo-1377034.jpeg?auto=compress&cs=tinysrgb&w=600" alt="First slide" style={{maxHeight: "500px"}}/>
         <Carousel.Caption>
           <h1>Special Offers </h1>
           <p>Buy 1 Get 1 Free on lipstick</p>
